@@ -1,1 +1,75 @@
+# Quiz 1 
+ >**Document the use of `ls` command and use an *ls flag* in your directory**
+
+## Uses of ls 
+`ls` is a Linux shell command that lists directory contents of files and directories
+
+*`ls `command main options:*
+
+|Option	|description|
+|--------|----------|
+|`ls -a	`|list all files including hidden file starting with '.'
+|`ls --color`|	colored list [=always/never/auto]
+|`ls -d	`|list directories - with ' */'
+|`ls -F`	|add one char of */=>@| to enteries
+|`ls -i	`|list file's inode index number
+|`ls -l`	|list with long format - show permissions
+|`ls -la	`|list long format including hidden files
+|`ls -lh	`|list long format with readable file size
+|`ls -ls`	|list with long format with file size
+|`ls -r`	|list in reverse order
+|`ls -R`	|list recursively directory tree
+|`ls -s`	|list file size
+|`ls -S`	|sort by file size
+|`ls -t`	|sort by time & date
+|`ls -X`	|sort by extension name
+|`ls -1` | list one file per line
+
+
+##  Example:
+
+In ~/shell-lesson-data/exercise-data/alkanes ; Running 
+
+```
+ls -s
+```
+yields ;
+
+> total 24   :  4 cubane.pdb  4 ethane.pdb  4 methane.pdb  4 octane.pdb  4 pentane.pdb  4 propane.pdb
+
+Running 
+```
+ls -1 -S
+```
+Yileds 
+- octane.pdb
+- pentane.pdb
+- cubane.pdb
+- propane.pdb
+- ethane.pdb
+- methane.pdb
+
+## Quiz 2
+>**Make a directory called file_X and move the created files (trial.txt, trial_2.txt,script1.sh) to this directory ,**
+>**Move the file_X directory to the Project directory (This was the first directory that was made)**
+
+To do this Input:
+
+```
+mkdir file_x
+```
+```
+mv trial.txt trial_2.txt script1.sh ../file_x
+```
+```
+mv file_x/ projects/
+```
+## Quiz 3 
+>**Use '?' and '*' wildcards together to list files in the Alkanes folder**
+
+To do this input:
+```
+ls *???.pdb
+```
+This will match all files with any set of characters and ends with .pdb
 
