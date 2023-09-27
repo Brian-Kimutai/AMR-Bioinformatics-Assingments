@@ -44,10 +44,10 @@ for j in `ls *.pdb`; do for k in {1..100}; do cp $j $(basename -s .pdb $j) $k.pd
 ```
 
 
-## Quiz 5
+## Quiz 5 
 
 > Find the easiest way to push only the .pdb files whose number suffix is divisible by 10
 
-## Quiz 6
+## Quiz 6 
 
 > Document your answer/work-around for the task number 5 in a markdown file named "Easiest solution.md"
