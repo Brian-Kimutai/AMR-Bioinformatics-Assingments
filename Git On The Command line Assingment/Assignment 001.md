@@ -6,6 +6,7 @@
 ## Quiz 2
 
 > Clone the newly created repo to your local machine,
+
 - To clone a repository means to download or duplicate an existing Git repository into your local computer,
 - To do this on the command line;
    - Open GitHub and go to the GitHub repository that you want to clone.
@@ -16,7 +17,7 @@
      cd Working-with-Git/Only-Alkanes/
      ```
 
-   - In put the commamnd ``git clone`` , paste the URL you copied earlier, and press “enter” to create your local clone.
+   - In put the command ``git clone`` , paste the URL you copied earlier, and press “enter” to create your local clone.
    - i.e
      ```
      git clone https://github.com/Brian-Kimutai/Only-Alkanes
@@ -25,6 +26,7 @@
 ## Quiz 4
 
 > Copy the contents of alkanes folder from shell-lesson-data/exercise-data/, used in previous classes, into your "Only alkanes" repo
+
 - To do this;
    - Navigate to the Alkanes folder `` cd shell-lesson-data/exercise-data/alkanes ``
    - Copy the contents  of the Alkanes folder into the "Only Alkanes" repo. by inputing:
