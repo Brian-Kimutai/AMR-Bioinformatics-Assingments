@@ -20,5 +20,6 @@ fastqc seq.fastq {name of fastq file downloaded from SRA}
  2.Alongside the HTML file is a zip file (with the same name as the HTML file, but with .zip added to the end). This file contains the different plots from the report as separate image files but also contains data files.
 
  Viewing the data - The fastqc report can be viewed using a web browser.
+!(https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Screenshot%20from%202023-10-11%2013-44-41.png)
  
  
