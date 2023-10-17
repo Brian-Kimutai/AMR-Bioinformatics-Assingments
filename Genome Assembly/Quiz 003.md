@@ -12,3 +12,6 @@
 - A Visual image will be generated after Clicking the `Draw Graph` section in the console;
   
 ![Bandage Image001](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Bandage_Image001.png)
+
+
+![Bandage Image002](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Bandage_Image002.png)
