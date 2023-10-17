@@ -28,5 +28,10 @@ google-chrome seq_fastqc.html
 ```
 
 ![FastqcImage001](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Fastqc_Image001.png)
+![FastqcImage002](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Fastqc_Image002.png) 
+![FastqcImage003](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Fastqc_Image003.png) 
+![FastqcImage004](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Fastqc_Image004.png) 
  
+
+
  
