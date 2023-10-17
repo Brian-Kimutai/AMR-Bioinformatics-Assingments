@@ -24,7 +24,7 @@ fastqc seq.fastq {name of fastq file downloaded from SRA}
 ```
 google-chrome seq_fastqc.html
 ```
-![Image001](home/administrator/Pictures/Screenshots/Image001.png)
+![Image001]()
 
  
  
