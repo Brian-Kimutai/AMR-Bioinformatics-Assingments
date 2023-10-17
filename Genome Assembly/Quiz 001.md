@@ -14,7 +14,7 @@ conda activate qc{ name of env. where Fastqc is installed}
 fastqc seq.fastq {name of fastq file downloaded from SRA}
 ```
 
- . For each individual FASTQ file that is input to FastQC, there are two output files that are generated.
+- For each individual FASTQ file that is input to FastQC, there are two output files that are generated.
  
  1.The first is an HTML file which is a self-contained document with various graphs embedded into it. Each of the graphs evaluate different quality aspects of  data,
  
@@ -24,7 +24,7 @@ fastqc seq.fastq {name of fastq file downloaded from SRA}
 ```
 google-chrome seq_fastqc.html
 ```
-![Image001](/home/administrator/Pictures/Screenshots/Image001.png)
+![Image001](home/administrator/Pictures/Screenshots/Image001.png)
 
  
  
