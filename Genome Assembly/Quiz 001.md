@@ -27,6 +27,6 @@ fastqc seq.fastq {name of fastq file downloaded from SRA}
 google-chrome seq_fastqc.html
 ```
 
-
+![FastqcImage001](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Fastqc_Image001.png)
  
  
