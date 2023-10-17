@@ -10,4 +10,5 @@
 - Input ``` Bandage ``` to call bandage,
 - A console will open up , load the graph generated {file with a .gfa extension} under the ```File``` section,
 - A Visual image will be generated after Clicking the `Draw Graph` section in the console;
-- 
+  
+![Bandage Image001](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Bandage_Image001.png)
