@@ -18,3 +18,4 @@
    flye --nano-raw seq.fastq --genome-size 5.5m --threads 12 -o Assembly
   ```
    
+![Flye Image](https://github.com/Brian-Kimutai/AMR-Bioinformatics-Assingments/blob/main/Images/Flye_Image001.png)
