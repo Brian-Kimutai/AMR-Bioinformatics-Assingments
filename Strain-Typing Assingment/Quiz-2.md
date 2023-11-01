@@ -14,8 +14,10 @@ for Accessions in  ; do
 
   mlst $Accessions > tmp_output.txt
   
-  awk {print $1 "\t" $2} tmp_output.txt >> $output_file
-  
+  awk '{print $1 "\t" $2}' tmp_output.txt >> $output_file
+
+  rm tmp_output.txt
+
 done
 
 ```
