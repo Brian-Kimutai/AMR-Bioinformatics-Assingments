@@ -10,7 +10,7 @@
 
 output_file="strain_typing_results.tsv"
 
-for Accessions in  ; do
+for Accessions in SRR26466680 SRR26466681 SRR26466679 SRR26466678 SRR26478287 ; do
 
   mlst $Accessions > tmp_output.txt
   
